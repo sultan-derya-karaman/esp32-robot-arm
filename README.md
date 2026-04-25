@@ -18,7 +18,7 @@ Kıskaç kısmında 1 adet micro servo kullanılmıştır, diğer 3 servo ise ko
 
 ## Notlar
 - Sistem manuel kontrol mantığıyla çalışmaktadır  
-- Mekanik montaj, elektrik bağlantıları, uygulama ve yazılımı tarafımca yapılmıştır  
+- Mekanik montaj, elektrik bağlantıları ve uygulama tarafımca yapılmıştır  
 
 ## Durum
 Proje geliştirme aşamasındadır, mekanik ve elektriksel yapı çalışır durumdadır.
